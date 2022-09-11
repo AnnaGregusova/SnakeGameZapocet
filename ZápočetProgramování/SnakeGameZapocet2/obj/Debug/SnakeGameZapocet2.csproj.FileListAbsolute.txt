@@ -1,0 +1,11 @@
+C:\Users\Petr Gregus\source\repos\SnakeGameZapocet2\SnakeGameZapocet2\bin\Debug\SnakeGameZapocet2.exe.config
+C:\Users\Petr Gregus\source\repos\SnakeGameZapocet2\SnakeGameZapocet2\bin\Debug\SnakeGameZapocet2.exe
+C:\Users\Petr Gregus\source\repos\SnakeGameZapocet2\SnakeGameZapocet2\bin\Debug\SnakeGameZapocet2.pdb
+C:\Users\Petr Gregus\source\repos\SnakeGameZapocet2\SnakeGameZapocet2\obj\Debug\SnakeGameZapocet2.csproj.AssemblyReference.cache
+C:\Users\Petr Gregus\source\repos\SnakeGameZapocet2\SnakeGameZapocet2\obj\Debug\SnakeGameZapocet2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Petr Gregus\source\repos\SnakeGameZapocet2\SnakeGameZapocet2\obj\Debug\SnakeGameZapocet2.Form1.resources
+C:\Users\Petr Gregus\source\repos\SnakeGameZapocet2\SnakeGameZapocet2\obj\Debug\SnakeGameZapocet2.Properties.Resources.resources
+C:\Users\Petr Gregus\source\repos\SnakeGameZapocet2\SnakeGameZapocet2\obj\Debug\SnakeGameZapocet2.csproj.GenerateResource.cache
+C:\Users\Petr Gregus\source\repos\SnakeGameZapocet2\SnakeGameZapocet2\obj\Debug\SnakeGameZapocet2.csproj.CoreCompileInputs.cache
+C:\Users\Petr Gregus\source\repos\SnakeGameZapocet2\SnakeGameZapocet2\obj\Debug\SnakeGameZapocet2.exe
+C:\Users\Petr Gregus\source\repos\SnakeGameZapocet2\SnakeGameZapocet2\obj\Debug\SnakeGameZapocet2.pdb
